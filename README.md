@@ -1,25 +1,26 @@
 # da_project
 
 
-Project Title: Road Accidents Dashboard
+
+
+
+Project Title: Road Accident Power BI Dashboard
 
 Description:
-The Road Accidents Dashboard is a data analytics project that aims to visualize and analyze road accident
-data to provide valuable insights and trends. It utilizes interactive charts, maps, and graphs to present 
-the data in a user-friendly and informative manner.
+The Road Accident Power BI Dashboard is a data analytics project that focuses on visualizing and analyzing road accident data to provide insights into various factors contributing to accidents. The dashboard utilizes Power BI, a powerful business intelligence tool, to create interactive visualizations and reports.
 
 Key Features:
-- Interactive visualization of road accident data
-- Filter and explore data by various parameters such as date, location, severity, and vehicle type
-- Comprehensive statistical analysis and trends identification
-- Geospatial mapping to visualize accident hotspots
-- Comparative analysis between different time periods or regions
-- User-friendly interface with intuitive navigation
 
+Visualize road accidents based on road surface conditions (e.g., dry, wet, icy)
+Analyze accident data by vehicle type (e.g., car, motorcycle, truck)
+Compare accident statistics between urban and rural areas
+Explore casualty counts and locations on an interactive map
+Examine accidents in different weather conditions (e.g., clear, rainy, foggy)
+Identify serious and fatal casualties for in-depth analysis
 Technologies Used:
 
-- Data Storage: .csv,.xlsx,.png
-- Visualization Tools: power bi
+Power BI: A business intelligence tool for creating interactive dashboards and reports
+Data Sources: Road accident datasets containing information on road surface, vehicle type, urban/rural classification, casualty details, weather conditions, and severity levels
 
 Installation and Usage:
 
